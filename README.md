@@ -9,3 +9,5 @@
 ### githubでのマージのテストです。
 ### commitテスト
 ### commitテスト2
+### commitテスト3
+### commitテスト4
